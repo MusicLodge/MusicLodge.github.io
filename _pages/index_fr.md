@@ -1,40 +1,21 @@
 ---
 layout: splash
+title: Ce que l'on offre
 permalink: /fr
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Giez.png
-  actions:
-    - label: "<i class='fa fa-envelope'></i> Contactez-nous"
-      url: "/fr/contact/"
-excerpt: >
-  Apprendre l'anglais avec Vicky Naylor
-feature_row:
-  - image_path: /assets/images/mum_headphone_c.png
-    alt: "Cours d'anglais"
-    title: "Cours d'anglais"
-    excerpt: "Planifier votre premier cours d'anglais. (change pic to mum teaching)"
-    url: "/fr/lessons/"
-    btn_class: "btn--primary"
-    btn_label: "Apprendre plus"
-  - image_path: /assets/images/ViewHouse.png
-    alt: "Residential"
-    title: "Residential"
-    excerpt: "Preparer votre visiste."
-    url: "/fr/residential"
-    btn_class: "btn--primary"
-    btn_label: "Apprendre plus"
-  - image_path: /assets/images/translation_v2.png
-    alt: "Traduction"
-    title: "Traduction"
-    excerpt: "Je peux faire de la traduction du français vers l'anglais."
-    url: "/fr/translation/"
-    btn_class: "btn--primary"
-    btn_label: "Apprendre plus"
-lang: 1
+  overlay_image: /assets/images/anotherpictureplease.png
+last_modified_at: 2019-10-04T10:54:48-04:00
 ref: home 
+lang: 1
 ---
 
-{% include feature_row %}
+# Bed & breakfast <img style="float: right;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30">
 
-SITE WEB EN CONSTRUCTION
+We do awesome bed & breakfast
+
+---
+
+<div style="text-align: right"> <h1 id="advanced_level"> <img style="float: left;" src="/assets/images/anotherpictureplease.png" width="300" height="100" hspace="30"> Recording afternoon </h1> </div> 
+
+You can do some awesome recording

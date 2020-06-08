@@ -12,20 +12,20 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", , "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", , "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Vicky in France"
+title                    : "Music Lodge"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Vicky Naylor"
+name                     : "Naylor"
 description              : 
-  en: "Speaking with ease"
-  fr: "Parlez avec aisance"
+  en: "Music place"
+  fr: "Endroit music"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : VickyInFrance/VickyInFrance.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : MusicLodgeGiez/MusicLodgeGiez.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/Giez.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/FocusTrevor.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -68,7 +68,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -306,9 +306,9 @@ defaults:
 
 t:
   - locale             : "en"
-    title              : "Vicky in France"
-    description        : "come one"
+    title              : "MusicLodge"
+    description        : "A beautiful place to record in a family setting."
 
   - locale             : "fr-FR"
-    title              : "Vicky in France"
-    description        : "The theory about twisty puzzles"
+    title              : "MusicLodge"
+    description        : "Un endroit magnifique pour s'enregistrer dans une atmosphère familial."

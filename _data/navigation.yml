@@ -3,35 +3,21 @@ main:
 
   - title: "Contact us"
     url: /en/contact/
-  - title: "Quick-Start Guide"
-    sublinks:
-      - title: Home
-        url: /en
-      - title: English level
-        url: /en/start/english_level
-      - title: Self-evaluation
-        url: /en/self-evaluation/
+  - title: "Equipment"
+    url: /en/equipment/
   - title: About
     sublinks:
       - title: Us
         url: /en/about/us
       - title: The area
         url: /en/about/area
-      - title: The cooking
-        url: /en/about/cooking
 
 t:
   - main:
-      - title: "Quick-Start Guide"
-        sublinks:
-          - title: Home
-            url: /en
-          - title: English level
-            url: /en/start_english_level
-          - title: Self-evaluation
-            url: /en/self-evaluation/
       - title: "Contact us"
         url: /en/contact/
+      - title: "Equipment"
+        url: /en/equipment/
       - title: About
         sublinks:
           - title: Us
@@ -40,16 +26,10 @@ t:
             url: /en/about/area
 
   - main:
-      - title: "Guide de départ"
-        sublinks:
-          - title: Page d'accueil
-            url: /fr
-          - title: Niveau d'anglais
-            url: /fr/start_english_level
-          - title: Auto-evaluation
-            url: /fr/self-evaluation/
       - title: "Contactez nous"
         url: /fr/contact/
+      - title: "Equipement"
+        url: /fr/equipement/
       - title: En savoir plus
         sublinks:
           - title: Sur nous
