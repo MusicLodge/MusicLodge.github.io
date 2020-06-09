@@ -2,7 +2,7 @@
 layout: splash
 redirect_from:
   - /
-title: Music Lodge
+title: Music Lodge in Giez (Annecy)
 permalink: /en/
 header:
   overlay_color: "#5e616c"
