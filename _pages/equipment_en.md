@@ -33,4 +33,4 @@ lang: 0
 - Yamaha NS10 Yamaha A100 ampli
 - The recording room is 25m<sup>2</sup> 
 
-Please tell us within two weeks notice, as no equipment can be found on site and will be brought.
+A minimum of two weeks’ notice required for the use or hire of any equipment.

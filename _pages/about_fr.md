@@ -13,7 +13,7 @@ lang: 1
 ref: about
 ---
 
-Nous avons quitté Londres pour nous installer en France avec nos cinq jeunes enfants en 1994. Peu après mon arrivée en France, nous avons créé une entreprise et un studio d'enregistrement pour la musique.  Mon mari écrit et joue de la musique et est également un merveilleux cuisinier (allez voir le blog de cuisine quotidien de [Peter](GiezFoodie.github.io) pour voir certains de ses menus passionnants et fiables).
+Nous avons quitté Londres pour nous installer en France avec nos cinq jeunes enfants en 1994. Peu après notre arrivée en France, nous avons créé une entreprise et un studio d'enregistrement pour la musique.  Mon mari écrit et joue de la musique et est également un merveilleux cuisinier (allez voir le blog de cuisine quotidien de [Peter](GiezFoodie.github.io) pour voir certains de ses menus passionnants et fiables).
 
 
 Notre fils aîné, Adam, enseigne également la guitare, écrit de la musique et joue dans des concerts (voir son [site web](http://www.adamnaylormusic.com/) pour plus d'informations). 
