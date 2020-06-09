@@ -16,7 +16,7 @@ ref: home
 lang: 1
 ---
 
-<strong>Vous cherchez un endroit pour jammer, composer et/ou enregistrer votre musique avec votre groupe ?  Nous vous proposons un hébergement en résidence où vous pouvez séjourner, repeter et enregistrer ensemble, sans vous préoccuper des repas.</strong>.
+<strong>Vous cherchez un endroit pour jammer, composer et/ou enregistrer votre musique avec votre groupe ?  Nous vous proposons un hébergement en résidence où vous pouvez séjourner, repeter et enregistrer ensemble, sans vous préoccuper des repas.</strong>
 
 La salle de musique principale se trouve au troisième étage et mesure 34m<sup>2</sup>.  La maison est spacieuse et confortable, avec plusieurs chambres et salles de bains.   Il est possible d'accueillir de grands groupes.
 
