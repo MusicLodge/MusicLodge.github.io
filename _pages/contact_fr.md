@@ -7,10 +7,10 @@ ref: contact
 lang: 1
 ---
 
-Veuillez nous contacter par [email](mailto:music.naylor@gmail.com) (music.naylor@gmail.com) ou en remplissant le formulaire ci-dessous:
+Veuillez nous contacter par [email](mailto:musiclodgegiez@gmail.com) (musiclodgegiez@gmail.com) ou en remplissant le formulaire ci-dessous:
 
 <form
-  action="https://formspree.io/myydvren"
+  action="https://formspree.io/mgenyeke"
   method="POST"
 >
   <label>
