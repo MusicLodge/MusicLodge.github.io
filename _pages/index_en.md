@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/Giez.jpg
 excerpt: >
   in Giez *(Annecy)*
+  
   <p style="color:rgba(255,0,0,0);">  _ </p>
 
   <p style="color:rgba(255,0,0,0);">  _ </p>
