@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Equipment
-permalink: /en/equipment
+permalink: /en/equipment/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/ViewHouse.jpg
@@ -31,6 +31,6 @@ lang: 0
 - RME Fireface M‐Audio Fast Track Behringer Ultra‐DI
 - Cubase Pro 8.5 Fabfilter Waves
 - Yamaha NS10 Yamaha A100 ampli
-- 25m<sup>2</sup> salle d’enregistrement
+- The recording room is 25m<sup>2</sup> 
 
-Please tell us within weeks notice, as no equipment can be found on site and will be brought.
+Please tell us within two weeks notice, as no equipment can be found on site and will be brought.

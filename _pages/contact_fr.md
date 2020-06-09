@@ -7,26 +7,26 @@ ref: contact
 lang: 1
 ---
 
-Veuillez nous contacter par [email](mailto:vickyinfrance@gmail.com) ou en remplissant le formulaire ci-dessous:
+Veuillez nous contacter par [email](mailto:music.naylor@gmail.com) (music.naylor@gmail.com) ou en remplissant le formulaire ci-dessous:
 
 <form
   action="https://formspree.io/myydvren"
   method="POST"
 >
   <label>
+    Votre nom et prénom:
+	<input type="text" name="name" id="name" placeholder="Prenom et nom" required=""/> 
     Votre email:
-    <input type="text" name="_replyto" placeholder="john.doe@example.com">
-    Votre nom:
-	<input type="text" name="name" id="name" placeholder="John Doe"/> 
+    <input type="text" name="_replyto" placeholder="Email" required="">
     Ou si vous préfèrez être contacté par téléphone:
-	<input type="text" name="phone" id="phone" placeholder="06 00 00 00 00" />
+	<input type="text" name="phone" id="phone" placeholder="" />
   </label>
   <label>
     Votre message:
-    <textarea name="message" placeholder="Bonjour, Je souhaiterai prendre rendez-vous pour un premier rendez-vous pour évaluer mon niveau d'anglais et fixer des objectifs de progression. Bien cordialement,"></textarea>
+    <textarea name="message" placeholder="" required=""></textarea>
   </label>
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">Envoyer</button>
 </form>

@@ -7,7 +7,7 @@ ref: contact
 lang: 0
 ---
 
-Please contact us by [email](mailto:vickyinfrance@gmail.com) (vickyinfrance@gmail.com) or by completing the following form:
+Please contact us by [email](mailto:music.naylor@gmail.com) (music.naylor@gmail.com) or by completing the following form:
 
 <form
   action="https://formspree.io/myydvren"
