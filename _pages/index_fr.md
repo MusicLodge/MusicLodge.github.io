@@ -18,7 +18,7 @@ ref: home
 lang: 1
 ---
 
-<strong>Vous cherchez un endroit pour jammer, composer et/ou enregistrer votre musique avec votre groupe ?  Nous vous proposons un hébergement en résidence où vous pouvez séjourner, repeter et enregistrer ensemble, sans vous préoccuper des repas.</strong>
+<strong>Vous cherchez un endroit pour jammer, composer et/ou enregistrer votre musique avec votre groupe ?  Nous vous proposons un hébergement en résidence où vous pouvez séjourner, répéter et enregistrer ensemble, sans vous préoccuper des repas.</strong>
 
 La salle de musique principale se trouve au troisième étage et mesure 34m<sup>2</sup>.  La maison est spacieuse et confortable, avec plusieurs chambres et salles de bains.   Il est possible d'accueillir de grands groupes.
 
@@ -40,9 +40,9 @@ Si vous cherchez quelqu'un pour écrire vos paroles en anglais ou pour vous aide
 
  
 
-Pour des idées de menus plus élaborés, consultez le blog de Peter, [Giez foodie blog](https://giezfoodie.github.io).
+Pour des idées de menus plus élaborés, consultez le blog de [Peter](https://giezfoodie.github.io).
 
  
 
-Il est prévu que vous apportiez vos instruments de musique et votre équipement avec vous, bien qu'il soit possible de louer, d'emprunter ou d'utiliser l'un de nos équipements qui sont énumérés ici par accord préalable.  Nous disposons également de certains instruments de musique qui ne figurent pas dans la liste.  En outre, nous disposons d'un piano à queue de concert, dont l'accord est à votre charge et fait l'objet d'un accord préalable.
+Il est prévu que vous apportiez vos instruments de musique et votre équipement avec vous, bien qu'il soit possible de louer, d'emprunter ou d'utiliser l'un de nos équipements qui sont énumérés [ici](/fr/equipement/) par accord préalable.  Nous disposons également de certains instruments de musique qui ne figurent pas dans la liste.  En outre, nous disposons d'un piano à queue de concert, dont l'accord est à votre charge et fait l'objet d'un accord préalable.
 

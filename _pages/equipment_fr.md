@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Equipement
-permalink: /fr/equipement
+permalink: /fr/equipement/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/ViewHouse.jpg
@@ -25,7 +25,7 @@ lang: 1
 - AKG D330
 - ElectroVoice N/D86
 
-# Materiels:
+# Matériel:
 - Yamaha 01V
 - RME Fireface M‐Audio Fast Track Behringer Ultra‐DI
 - Cubase Pro 8.5 Fabfilter Waves

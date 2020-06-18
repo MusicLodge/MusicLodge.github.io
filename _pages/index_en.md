@@ -45,5 +45,5 @@ For more elaborate food menu ideas, see Peter’s Giez foodie [blog](https://gie
 
  
 
-It is anticipated that you should bring your musical instruments and equipment with you, although it may be possible to hire, borrow or use any of our equipment which is listed here by prior agreement.  We also have some musical instruments, which are not included in the list.  In addition, there’s a concert grand piano, the tuning of which would be at your expense and by prior arrangement.
+It is anticipated that you should bring your musical instruments and equipment with you, although it may be possible to hire, borrow or use any of our equipment which is listed [here](/en/equipement/) by prior agreement.  We also have some musical instruments, which are not included in the list.  In addition, there’s a concert grand piano, the tuning of which would be at your expense and by prior arrangement.
 
